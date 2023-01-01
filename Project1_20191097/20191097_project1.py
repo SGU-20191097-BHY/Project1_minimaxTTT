@@ -20,7 +20,7 @@ asset_sound_path = os.path.join(current_path, "assets/sound")
 font_basic=pygame.font.SysFont('FixedSys',40,True,False)
 font_menu=pygame.font.SysFont('FixedSys',50,True,False)
 
-pygame.display.set_caption('20191097 HW3')
+pygame.display.set_caption('20191097 Project1')
 
 screen=pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 
